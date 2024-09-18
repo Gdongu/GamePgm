@@ -1,3 +1,4 @@
 <h3>hello.cpp의 실행 결과</h3>
 <hr>
-![hello](https://github.com/Gdongu/GamePgm/blob/main/img/hello.PNG)
+![image](https://github.com/user-attachments/assets/529011b1-e027-4ad4-9f63-28e13f20f9d0)
+

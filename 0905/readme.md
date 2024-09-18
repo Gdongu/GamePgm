@@ -1,3 +1,3 @@
-<h3>'hello.cpp'의 실행 결과</h3>
+<h3>hello.cpp의 실행 결과</h3>
 <hr>
-![hello](https://github.com/user-attachments/assets/7472eb70-4f71-437e-b73c-b4e6556f3998)
+![hello](https://github.com/user-attachments/assets/9395f1cc-0bd7-4ad6-a45a-d1daa52e66c8)
